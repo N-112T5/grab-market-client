@@ -91,3 +91,8 @@
     height: 200px;
     background-color: lightgrey;
 }
+
+.product-link {
+    color: inherit;
+    text-decoration: none;
+}
