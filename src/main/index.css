@@ -3,13 +3,6 @@
     padding: 0;
 }
 
-#header {
-    height: 64px;
-    display: flex;
-    justify-content: center;
-    border-bottom: 1px solid gray;
-}
-
 #header-area {
     width: 1024px;
     height: 100%;
@@ -20,17 +13,6 @@
 #header-area > img {
     width: 128px;
     height: 36px;
-}
-
-#body {
-    height: 100vh;
-    width: 1024px;
-    margin: 0 auto;
-    padding-bottom: 36px;
-}
-
-#body > h1 {
-    margin-top: 16px;
 }
 
 #banner {
@@ -85,11 +67,6 @@
 
 .product-avatar {
     width: 24px;
-}
-
-#footer {
-    height: 200px;
-    background-color: lightgrey;
 }
 
 .product-link {
